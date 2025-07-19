@@ -35,4 +35,4 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 output:
 
-![Image]([https://github.com/user-attachments/assets/40c26dd0-cb12-4a88-868e-5498240c5366](https://github.com/Rishirajyadav-rry/MULTITHREADED-FILE-COMPRESSION-TOOL/blob/main/IMG1.png))
+![Image](https://github.com/user-attachments/assets/40c26dd0-cb12-4a88-868e-5498240c5366](https://github.com/Rishirajyadav-rry/MULTITHREADED-FILE-COMPRESSION-TOOL/blob/main/IMG1.png)](https://github.com/Rishirajyadav-rry/MULTITHREADED-FILE-COMPRESSION-TOOL/blob/main/IMG1.png)
